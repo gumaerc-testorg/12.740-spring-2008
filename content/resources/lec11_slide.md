@@ -5,8 +5,13 @@ description: Lecture presentation on continental evidence for glacial climate. I
   pollen in lakes, peat bogs, and marine continental marginsediments, modern dune
   deserts, Loess deposits in caves, Devil's Hole vein calcite controversy, groundwater
   aquifers, and marine-continental correlations.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/12-740-paleoceanography-spring-2008/941a132cd1c5fd22734a8e6f7887430c_lec11_slide.pdf
+file: /media/courses/12-740-paleoceanography-spring-2008/941a132cd1c5fd22734a8e6f7887430c_lec11_slide.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: Continental Evidence for Glacial Climate
 uid: 941a132c-d1c5-fd22-734a-8e6f7887430c

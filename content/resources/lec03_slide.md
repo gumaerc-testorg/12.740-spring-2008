@@ -7,8 +7,13 @@ description: Lecture presentation on oxygen isotope paleothermometry, cumulative
   the effect of glaciation on the oxygen isotope composition of the ocean, sea-level
   estimates from drilling submerged coral terraces, oxygen isotope stratigraphy, and
   paleomagnetic stratigraphy.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/12-740-paleoceanography-spring-2008/3f263afcc13cc3c0dbc7b37a2ba33003_lec03_slide.pdf
+file: /media/courses/12-740-paleoceanography-spring-2008/3f263afcc13cc3c0dbc7b37a2ba33003_lec03_slide.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: Oxygen isotope paleothermometry
 uid: 3f263afc-c13c-c3c0-dbc7-b37a2ba33003

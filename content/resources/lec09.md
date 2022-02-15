@@ -3,8 +3,13 @@ content_type: resource
 description: Lecture notes on deep-ocean paleoceanography, ocean chemistry, links
   to atmospheric carbon dioxide and carbon-14/carbon-12, and deep-water and ventilation
   rate tracers.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/12-740-paleoceanography-spring-2008/ae76716434bccc1a11b3192025c48b20_lec09.pdf
+file: /media/courses/12-740-paleoceanography-spring-2008/ae76716434bccc1a11b3192025c48b20_lec09.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: 'Deep-ocean Paleoceanography and Ocean Chemistry: Links to Atmospheric Carbon
   Dioxide and Carbon-14/Carbon-12'

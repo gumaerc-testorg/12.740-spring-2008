@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: d409d56e-d0f2-7c39-c96f-3d8512960818
 ---
@@ -168,9 +171,9 @@ Ice core evidence for climate change (cont.)
 {{< tdopen >}}
 
 
-Deep-ocean paleoceanography and ocean chemistry: links to atmospheric carbon dioxide and 14C/12C
+Deep-ocean paleoceanography and ocean chemistry: links to atmospheric carbon dioxide and {{< sup "14" >}}C/{{< sup "12" >}}C
 
-The 14C story
+The {{< sup "14" >}}C story
 
 
 {{< tdclose >}}
@@ -201,7 +204,7 @@ The 14C story
 10
 {{< tdclose >}}
 {{< tdopen >}}
-Atmospheric CO2, ocean chemistry, and mechanisms of climate change
+Atmospheric CO{{< sub "2" >}}, ocean chemistry, and mechanisms of climate change
 {{< tdclose >}}
 {{< tdopen >}}
 ([PDF]({{< baseurl >}}/resources/lec10))
