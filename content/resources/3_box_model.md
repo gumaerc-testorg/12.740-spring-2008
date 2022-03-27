@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 252db028-3f3b-6f05-9070-4ea2a732d560
 resourcetype: Document
 title: 'Introduction to Ocean Carbon System Box Models: The Toggweiler-Sarmiento 3-Box
   Model'

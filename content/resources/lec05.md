@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: d409d56e-d0f2-7c39-c96f-3d8512960818
 resourcetype: Document
 title: 'Sea-level and Climate Change: Coral Reefs On Stable and Emerging Islands'
 uid: fb139802-4a22-68b2-2a0f-ceae71d98f03

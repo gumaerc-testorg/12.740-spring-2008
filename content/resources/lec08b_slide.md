@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: d409d56e-d0f2-7c39-c96f-3d8512960818
 resourcetype: Document
 title: 'Ice Core Paleoclimatology Ii: Solutes and Particulates'
 uid: 17d1a45d-b2af-c029-0756-927fda0d9b85

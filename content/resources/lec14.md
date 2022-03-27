@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: d409d56e-d0f2-7c39-c96f-3d8512960818
 resourcetype: Document
 title: Introduction to Cenozoic Palenoceanography
 uid: 20c1a264-cfa4-6883-4980-78d9e4500ac1

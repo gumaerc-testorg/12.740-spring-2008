@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 252db028-3f3b-6f05-9070-4ea2a732d560
 resourcetype: Other
 title: 3box_model_PreInd_rev11h_PC_
 uid: 5a31eb2f-ed44-e6c0-ad7d-4f579baecd06

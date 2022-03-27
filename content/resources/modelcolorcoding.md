@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 252db028-3f3b-6f05-9070-4ea2a732d560
 resourcetype: Document
 title: Model Color Coding
 uid: bff6b58b-7285-6474-daf2-2f97ec77dd4c

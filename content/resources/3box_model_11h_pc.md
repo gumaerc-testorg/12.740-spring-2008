@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 518bf30e-72e3-18b8-a83c-c63e22246196
 resourcetype: Other
 title: 3box_model_11h_PC
 uid: e33a7457-de0e-cd4a-799e-f2d122441863

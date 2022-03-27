@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: d409d56e-d0f2-7c39-c96f-3d8512960818
 resourcetype: Document
 title: Major Paleoceanographic and Paleoclimatic Events of the Past 2 Million Years
 uid: 02f5d967-ce63-7f06-6a1f-68acf5e0bde0

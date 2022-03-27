@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 252db028-3f3b-6f05-9070-4ea2a732d560
 resourcetype: Other
 title: 3boxmodelGlacialrev11fMAC
 uid: e3460ab6-16f0-8554-1a4a-94501542603e

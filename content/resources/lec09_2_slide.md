@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: d409d56e-d0f2-7c39-c96f-3d8512960818
 resourcetype: Document
 title: Deep-ocean paleoceanography and ocean chemistry
 uid: a2363bad-ee08-c771-ae9e-fe57df0c2d41

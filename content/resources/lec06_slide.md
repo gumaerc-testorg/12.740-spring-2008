@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: d409d56e-d0f2-7c39-c96f-3d8512960818
 resourcetype: Document
 title: "Glacial/Interglacial \u2018oscillations\u2019: WHY? Time-series analysis"
 uid: c4c1e4f1-f055-64b2-1d4c-631909a8048d

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: d409d56e-d0f2-7c39-c96f-3d8512960818
 resourcetype: Document
 title: Oxygen Isotope Paleoclimatology
 uid: c8d0a79e-fe58-126c-966b-e31d1c3ff440
