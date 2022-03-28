@@ -10,6 +10,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types: []
 ocw_type: OCWImage
+parent_uid: null
 resourcetype: Image
 title: Relationship between the zero-point energy and molecular mass
 uid: 11bdd672-fc50-0e4c-3860-5b03568b24bf
