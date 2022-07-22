@@ -5,6 +5,7 @@ file: /courses/12-740-paleoceanography-spring-2008/c8d0a79efe58126c966be31d1c3ff
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Oxygen Isotope Paleoclimatology
 uid: c8d0a79e-fe58-126c-966b-e31d1c3ff440
 ---
 Lecture notes on oxygen isotope paleoclimatology.
-

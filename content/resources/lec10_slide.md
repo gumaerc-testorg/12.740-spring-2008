@@ -6,6 +6,7 @@ file: /courses/12-740-paleoceanography-spring-2008/c5040d5c3c20372c8f6225d75e956
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Atmospheric Carbon Dioxide and Ocean Chemistry
 uid: c5040d5c-3c20-372c-8f62-25d75e95674d
 ---
 Lecture presentation on atmospheric carbon dioxide, ocean chemistry, and mechanisms of climate change.
-

@@ -7,6 +7,7 @@ file: /courses/12-740-paleoceanography-spring-2008/ae76716434bccc1a11b3192025c48
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: 'Deep-ocean Paleoceanography and Ocean Chemistry: Links to Atmospheric Ca
 uid: ae767164-34bc-cc1a-11b3-192025c48b20
 ---
 Lecture notes on deep-ocean paleoceanography, ocean chemistry, links to atmospheric carbon dioxide and carbon-14/carbon-12, and deep-water and ventilation rate tracers.
-

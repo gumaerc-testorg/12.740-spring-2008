@@ -7,6 +7,7 @@ file: /courses/12-740-paleoceanography-spring-2008/b10d1257c1a77d3bfe038b8c07aa8
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: Problem Set 1
 uid: b10d1257-c1a7-7d3b-fe03-8b8c07aa8768
 ---
 Problem set on the salinity of the glacial ocean, the change in mean deep ocean temperature during the last glacial maximum, and how sensitive it is to your assumption about the isotopic composition of glacial ice.
-

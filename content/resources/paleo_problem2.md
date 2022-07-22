@@ -5,6 +5,7 @@ file: /courses/12-740-paleoceanography-spring-2008/a2c6561936aa336a52c56991e8f76
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Problem Set 2
 uid: a2c65619-36aa-336a-52c5-6991e8f76960
 ---
 Problem set on factor analysis.
-

@@ -5,6 +5,7 @@ file: /courses/12-740-paleoceanography-spring-2008/c1deb54b73b591e240d4460cd668a
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Ice Core Paleoclimatology I
 uid: c1deb54b-73b5-91e2-40d4-460cd668aac3
 ---
 Lecture presentation on ice core evidence for climate change.
-

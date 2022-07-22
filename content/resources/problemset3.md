@@ -5,6 +5,7 @@ file: /courses/12-740-paleoceanography-spring-2008/7ad84b195a13936f97eda3a58cc5f
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Problem Set 3: Introduction to Ocean Box Modeling'
 uid: 7ad84b19-5a13-936f-97ed-a3a58cc5f2c0
 ---
 Problem set on ocean box modeling.
-

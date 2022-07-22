@@ -6,6 +6,7 @@ file: /courses/12-740-paleoceanography-spring-2008/7f42a97fdeab1a693be905653c2c6
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: The Carbon-14 Story
 uid: 7f42a97f-deab-1a69-3be9-05653c2c620a
 ---
 Lecture presentation on deep-ocean paleoceanography and ocean chemistry: links to atmospheric carbon dioxide, carbon-14, and carbon-12.
-

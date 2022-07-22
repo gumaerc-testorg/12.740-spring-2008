@@ -6,6 +6,7 @@ file: /courses/12-740-paleoceanography-spring-2008/5261502f74f09d3f51d75872bccc9
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Ice Core Evidence for Climate Change (cont.)
 uid: 5261502f-74f0-9d3f-51d7-5872bccc9aa9
 ---
 Lecture notes on ice core evidence for climate change, atmospheric gas record in ice cores, rapid climate change in ice cores, and the ice core time scale.
-

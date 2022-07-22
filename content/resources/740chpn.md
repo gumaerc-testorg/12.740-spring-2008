@@ -9,10 +9,10 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: Relationship between the zero-point energy and molecular mass
 uid: 11bdd672-fc50-0e4c-3860-5b03568b24bf
 ---
 Schematic diagram showing the relationship between the zero-point energy and molecular mass for hydrogen, deuterium and HD. (Image by MIT OpenCourseWare.)
-

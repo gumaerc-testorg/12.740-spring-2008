@@ -5,6 +5,7 @@ file: /courses/12-740-paleoceanography-spring-2008/9d06e267d934bb513d0ff1180436b
 file_type: application/msword
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 3boxModel11hMac
 uid: 9d06e267-d934-bb51-3d0f-f1180436b7bd
 ---
 Supplement to a problem set on paleoceanography.
-
