@@ -3,6 +3,7 @@ content_type: resource
 description: 'Lecture presentation on deep-ocean paleoceanography and ocean chemistry:
   links to atmospheric carbon dioxide, carbon-14, and carbon-12.'
 file: /courses/12-740-paleoceanography-spring-2008/7f42a97fdeab1a693be905653c2c620a_lec09a_slide.pdf
+file_size: 2046042
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

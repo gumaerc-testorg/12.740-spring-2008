@@ -6,6 +6,7 @@ description: Lecture presentation on continental evidence for glacial climate. I
   deserts, Loess deposits in caves, Devil's Hole vein calcite controversy, groundwater
   aquifers, and marine-continental correlations.
 file: /courses/12-740-paleoceanography-spring-2008/941a132cd1c5fd22734a8e6f7887430c_lec11_slide.pdf
+file_size: 791680
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

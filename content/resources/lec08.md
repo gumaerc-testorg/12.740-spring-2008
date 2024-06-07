@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture notes on ice core evidence for climate change, atmospheric gas
   record in ice cores, rapid climate change in ice cores, and the ice core time scale.
 file: /courses/12-740-paleoceanography-spring-2008/5261502f74f09d3f51d75872bccc9aa9_lec08.pdf
+file_size: 383285
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
