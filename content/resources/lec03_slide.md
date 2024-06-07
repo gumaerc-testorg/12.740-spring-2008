@@ -8,6 +8,7 @@ description: Lecture presentation on oxygen isotope paleothermometry, cumulative
   estimates from drilling submerged coral terraces, oxygen isotope stratigraphy, and
   paleomagnetic stratigraphy.
 file: /courses/12-740-paleoceanography-spring-2008/3f263afcc13cc3c0dbc7b37a2ba33003_lec03_slide.pdf
+file_size: 1037771
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

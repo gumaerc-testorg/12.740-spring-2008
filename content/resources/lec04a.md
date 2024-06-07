@@ -5,6 +5,7 @@ description: Lecture notes on Paleo-ecological temperature estimation, factor an
   records of paleotemperature variability during the last 150,000 years, and the Modern
   Analogue Technique (MAT).
 file: /courses/12-740-paleoceanography-spring-2008/81363ae0114b5824c91a90fcd867022e_lec04a.pdf
+file_size: 155464
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

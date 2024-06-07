@@ -4,6 +4,7 @@ description: Lecture notes on deep-ocean paleoceanography, ocean chemistry, link
   to atmospheric carbon dioxide and carbon-14/carbon-12, and deep-water and ventilation
   rate tracers.
 file: /courses/12-740-paleoceanography-spring-2008/ae76716434bccc1a11b3192025c48b20_lec09.pdf
+file_size: 263148
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -2,6 +2,7 @@
 content_type: resource
 description: Problem set on ocean box modeling.
 file: /courses/12-740-paleoceanography-spring-2008/451402bcacfa51c1bfa43c3b4cb4f174_problem_set3.pdf
+file_size: 19249
 file_type: application/pdf
 learning_resource_types:
 - Assignments
