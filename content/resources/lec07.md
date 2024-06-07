@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture notes on ice core evidence for climate change.
 file: /courses/12-740-paleoceanography-spring-2008/0c98b30de23c15696cb75881bd1c07a1_lec07.pdf
+file_size: 475792
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

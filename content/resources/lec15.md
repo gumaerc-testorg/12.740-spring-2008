@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture notes on tracers and paleoproductivity.
 file: /courses/12-740-paleoceanography-spring-2008/0f2c17315ac362e4f1be38904e8029b7_lec15.pdf
+file_size: 91124
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
