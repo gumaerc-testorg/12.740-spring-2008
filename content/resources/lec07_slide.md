@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture presentation on ice core evidence for climate change.
-file: /courses/12-740-paleoceanography-spring-2008/c1deb54b73b591e240d4460cd668aac3_lec07_slide.pdf
+file: /ol-ocw-studio-app/courses/12-740-paleoceanography-spring-2008/c1deb54b73b591e240d4460cd668aac3_lec07_slide.pdf
 file_size: 767719
 file_type: application/pdf
 learning_resource_types:

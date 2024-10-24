@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture presentation on glacial/interglacial oscillations, Fourier time-series
   analysis, and orbital influences.
-file: /courses/12-740-paleoceanography-spring-2008/16d8a87dab54f0c3eaaf79a03c8d2b64_lec06.pdf
+file: /ol-ocw-studio-app/courses/12-740-paleoceanography-spring-2008/16d8a87dab54f0c3eaaf79a03c8d2b64_lec06.pdf
 file_size: 401867
 file_type: application/pdf
 learning_resource_types:

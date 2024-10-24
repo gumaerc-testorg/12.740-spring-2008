@@ -3,7 +3,7 @@ content_type: resource
 description: Lecture notes with an introduction to Cenozoic palenoceanography, changing
   continental positions, Cenozoic time scale, and major features of the paleoclimate
   history of the Cenozoic.
-file: /courses/12-740-paleoceanography-spring-2008/20c1a264cfa46883498078d9e4500ac1_lec14.pdf
+file: /ol-ocw-studio-app/courses/12-740-paleoceanography-spring-2008/20c1a264cfa46883498078d9e4500ac1_lec14.pdf
 file_size: 90858
 file_type: application/pdf
 learning_resource_types:
