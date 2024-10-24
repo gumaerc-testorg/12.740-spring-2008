@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on sea-level and climate change, coral reefs on stable
   and emerging islands, and global viscoelastic models.
-file: /courses/12-740-paleoceanography-spring-2008/fb1398024a2268b22a0fceae71d98f03_lec05.pdf
+file: /ol-ocw-studio-app/courses/12-740-paleoceanography-spring-2008/fb1398024a2268b22a0fceae71d98f03_lec05.pdf
 file_size: 480507
 file_type: application/pdf
 learning_resource_types:
