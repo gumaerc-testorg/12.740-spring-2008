@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on coral evidence for temperature, salinity, and nutrient
   changes.
-file: /courses/12-740-paleoceanography-spring-2008/0903b3905645d2102a1197fa5afcd272_lec13.pdf
+file: /ol-ocw-studio-app/courses/12-740-paleoceanography-spring-2008/0903b3905645d2102a1197fa5afcd272_lec13.pdf
 file_size: 95775
 file_type: application/pdf
 learning_resource_types:
