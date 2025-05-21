@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on continental evidence for glacial climate change.
-file: /ol-ocw-studio-app/courses/12-740-paleoceanography-spring-2008/27b958411670287742040cad5b015072_lec11.pdf
+file: /courses/12-740-paleoceanography-spring-2008/27b958411670287742040cad5b015072_lec11.pdf
 file_size: 262602
 file_type: application/pdf
 learning_resource_types:

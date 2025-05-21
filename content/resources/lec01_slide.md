@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture presentation on paleoceanographic tracers and the major paleoceanographic
   and paleoclimatic events of the past 70 million years.
-file: /ol-ocw-studio-app/courses/12-740-paleoceanography-spring-2008/f5fbc800bcb1e2820f22c01a2ae2eebd_lec01_slide.pdf
+file: /courses/12-740-paleoceanography-spring-2008/f5fbc800bcb1e2820f22c01a2ae2eebd_lec01_slide.pdf
 file_size: 899699
 file_type: application/pdf
 learning_resource_types:

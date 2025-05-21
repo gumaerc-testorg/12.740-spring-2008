@@ -3,7 +3,7 @@ content_type: resource
 description: Lecture presentation on ice core paleoclimatology, solutes and particulates,
   acidity and dust, sulfate and nitrate, and electrical conductivity of ice and volcanic
   acids.
-file: /ol-ocw-studio-app/courses/12-740-paleoceanography-spring-2008/17d1a45db2afc0290756927fda0d9b85_lec08b_slide.pdf
+file: /courses/12-740-paleoceanography-spring-2008/17d1a45db2afc0290756927fda0d9b85_lec08b_slide.pdf
 file_size: 667963
 file_type: application/pdf
 learning_resource_types:
