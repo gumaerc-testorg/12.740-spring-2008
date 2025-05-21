@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture presentation on atmospheric carbon dioxide, ocean chemistry,
   and mechanisms of climate change.
-file: /ol-ocw-studio-app/courses/12-740-paleoceanography-spring-2008/c5040d5c3c20372c8f6225d75e95674d_lec10_slide.pdf
+file: /courses/12-740-paleoceanography-spring-2008/c5040d5c3c20372c8f6225d75e95674d_lec10_slide.pdf
 file_size: 1230079
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on oxygen-isotope paleothermometry and oxygen isotope hydrology.
-file: /ol-ocw-studio-app/courses/12-740-paleoceanography-spring-2008/903012022c8da78aec9470f1332257bb_lec03.pdf
+file: /courses/12-740-paleoceanography-spring-2008/903012022c8da78aec9470f1332257bb_lec03.pdf
 file_size: 305420
 file_type: application/pdf
 learning_resource_types:

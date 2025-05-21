@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Simulation of the 3-Box Model.
-file: /ol-ocw-studio-app/courses/12-740-paleoceanography-spring-2008/5a31eb2fed44e6c0ad7d4f579baecd06_3box_model_PreInd_rev11h_PC_.xls
+file: /courses/12-740-paleoceanography-spring-2008/5a31eb2fed44e6c0ad7d4f579baecd06_3box_model_PreInd_rev11h_PC_.xls
 file_size: 150016
 file_type: application/msword
 learning_resource_types: []

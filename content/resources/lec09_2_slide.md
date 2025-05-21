@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture presentation on deep-ocean paleoceanography, ocean chemistry,
   temperature, and salinity.
-file: /ol-ocw-studio-app/courses/12-740-paleoceanography-spring-2008/a2363badee08c771ae9efe57df0c2d41_lec09_2_slide.pdf
+file: /courses/12-740-paleoceanography-spring-2008/a2363badee08c771ae9efe57df0c2d41_lec09_2_slide.pdf
 file_size: 1617983
 file_type: application/pdf
 learning_resource_types:

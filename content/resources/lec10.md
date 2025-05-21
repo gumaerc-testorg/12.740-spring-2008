@@ -6,7 +6,7 @@ description: Lecture notes on atmospheric carbon dioxide, ocean chemistry, and m
   coral reef hypotheses, the nutrient deepening/alkalinity response model, the rain
   ratio model, the sea ice/gas exchange mechanism, nitrate as a limiting nutrient,
   change in mode of southern ocean deepwater formation, and oceanic Si reorganization.
-file: /ol-ocw-studio-app/courses/12-740-paleoceanography-spring-2008/44d3cbec1620faae3329d01d400afb76_lec10.pdf
+file: /courses/12-740-paleoceanography-spring-2008/44d3cbec1620faae3329d01d400afb76_lec10.pdf
 file_size: 464781
 file_type: application/pdf
 learning_resource_types:
