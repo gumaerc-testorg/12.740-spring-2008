@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Problem set on factor analysis.
-file: /ol-ocw-studio-app/courses/12-740-paleoceanography-spring-2008/6fdf81ef97aa4e72dfaff3fcb7651abf_problemset2.pdf
+file: /courses/12-740-paleoceanography-spring-2008/6fdf81ef97aa4e72dfaff3fcb7651abf_problemset2.pdf
 file_size: 134093
 file_type: application/pdf
 learning_resource_types:
