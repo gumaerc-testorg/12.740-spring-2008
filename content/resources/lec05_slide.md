@@ -4,7 +4,7 @@ description: Lecture presentation on coastline evidence for sea level change, th
   effect of glaciation on the oxygen isotope composition of the ocean, Terrace formation
   on a coastline with changing sea level, dating of corals, alpha counting, and eustatic
   versus relative sea level changes.
-file: /courses/12-740-paleoceanography-spring-2008/425c940364cab0b50dad0480e5267156_lec05_slide.pdf
+file: /ol-ocw-studio-app/courses/12-740-paleoceanography-spring-2008/425c940364cab0b50dad0480e5267156_lec05_slide.pdf
 file_size: 1563032
 file_type: application/pdf
 learning_resource_types:

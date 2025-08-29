@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture presentation on paleo-ecological temperature estimation, principle
   components analysis, and factor analysis.
-file: /courses/12-740-paleoceanography-spring-2008/f68484ab61b7903984dab3d74462b06d_lec04_slide.pdf
+file: /ol-ocw-studio-app/courses/12-740-paleoceanography-spring-2008/f68484ab61b7903984dab3d74462b06d_lec04_slide.pdf
 file_size: 828678
 file_type: application/pdf
 learning_resource_types:
